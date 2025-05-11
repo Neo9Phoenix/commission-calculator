@@ -17,8 +17,12 @@ You can run this Java app in any IDE or online compiler like [OnlineGDB](https:/
 
 ### Example:
 
+
+## Screenshot
+![Sales Commission Calculation Example](Looped%20Sales%20Commission.PNG)
+
+
 ```bash
 Enter sales amount: 8500
 Total income for $8500.00 in sales is: $5750.00
-## Screenshot
-![Sales Commission Calculation Example](Looped%20Sales%20Commission.PNG)
+
